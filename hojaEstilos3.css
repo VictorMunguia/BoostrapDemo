@@ -1,0 +1,15 @@
+.navbar{
+  background-color: rgba(0,0,0,0.6) !important;
+}
+
+.ContenedorTodo{
+  background: black;
+}
+
+.BotonesNormales{
+  padding-top: 80px;
+}
+
+.btn{
+  margin-left: 10px;
+}

@@ -1,0 +1,13 @@
+.navbar{
+  background-color: rgba(0,0,0,0.6) !important;
+}
+
+.ContenedorTodo{
+  background: #8BE5EE;
+}
+
+.CarruselContainer{
+  padding-top: 60px;
+  height: 400px;
+  width: 920px;
+}
